@@ -1,6 +1,4 @@
 # sets
-from multiprocessing.reduction import duplicate
-
 
 it_companies = {'Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon'}
 A = {19, 22, 24, 20, 25, 26}
